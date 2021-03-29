@@ -1,0 +1,13 @@
+C:\Users\Bogdan Elvis-Sorin\source\repos\MetodeFormale\MetodeFormale\obj\Debug\netcoreapp3.1\MetodeFormale.csprojAssemblyReference.cache
+C:\Users\Bogdan Elvis-Sorin\source\repos\MetodeFormale\MetodeFormale\obj\Debug\netcoreapp3.1\MetodeFormale.AssemblyInfoInputs.cache
+C:\Users\Bogdan Elvis-Sorin\source\repos\MetodeFormale\MetodeFormale\obj\Debug\netcoreapp3.1\MetodeFormale.AssemblyInfo.cs
+C:\Users\Bogdan Elvis-Sorin\source\repos\MetodeFormale\MetodeFormale\obj\Debug\netcoreapp3.1\MetodeFormale.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan Elvis-Sorin\source\repos\MetodeFormale\MetodeFormale\bin\Debug\netcoreapp3.1\MetodeFormale.exe
+C:\Users\Bogdan Elvis-Sorin\source\repos\MetodeFormale\MetodeFormale\bin\Debug\netcoreapp3.1\MetodeFormale.deps.json
+C:\Users\Bogdan Elvis-Sorin\source\repos\MetodeFormale\MetodeFormale\bin\Debug\netcoreapp3.1\MetodeFormale.runtimeconfig.json
+C:\Users\Bogdan Elvis-Sorin\source\repos\MetodeFormale\MetodeFormale\bin\Debug\netcoreapp3.1\MetodeFormale.runtimeconfig.dev.json
+C:\Users\Bogdan Elvis-Sorin\source\repos\MetodeFormale\MetodeFormale\bin\Debug\netcoreapp3.1\MetodeFormale.dll
+C:\Users\Bogdan Elvis-Sorin\source\repos\MetodeFormale\MetodeFormale\bin\Debug\netcoreapp3.1\MetodeFormale.pdb
+C:\Users\Bogdan Elvis-Sorin\source\repos\MetodeFormale\MetodeFormale\obj\Debug\netcoreapp3.1\MetodeFormale.dll
+C:\Users\Bogdan Elvis-Sorin\source\repos\MetodeFormale\MetodeFormale\obj\Debug\netcoreapp3.1\MetodeFormale.pdb
+C:\Users\Bogdan Elvis-Sorin\source\repos\MetodeFormale\MetodeFormale\obj\Debug\netcoreapp3.1\MetodeFormale.genruntimeconfig.cache
